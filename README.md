@@ -15,6 +15,8 @@ This repository contains the technical documentation, design files, firmware, an
 > [!NOTE]
 > This documentation serves to demonstrate the project's creation process and does not intend to be a step-by-step instruction manual for replication. 
 
+![image](https://github.com/user-attachments/assets/043e439e-ccd9-49bf-82b5-806afffb0fbe)
+
 ## Key Features
 
 *   **Interactive LED Display:** Utilizes nine 8x8 LED matrix modules (HT16K33) to display the Tic Tac Toe game state.
