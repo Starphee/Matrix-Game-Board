@@ -75,6 +75,6 @@ While this is not an instruction manual to build your own, you can explore the p
 
 ## License
 
-This project is open-source. Please see the [<LICENSE_FILE>](<LICENSE_FILE>) file for details on how you can use, modify, and distribute the files in this repository.
+This project is open-source. License WIP...
 
 ---
